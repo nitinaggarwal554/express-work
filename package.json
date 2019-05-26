@@ -1,0 +1,20 @@
+{
+  "name": "expresscode",
+  "version": "1.0.0",
+  "description": "demo code",
+  "main": "index1.js",
+  "scripts": {
+    "test": "["
+  },
+  "keywords": [
+    "\"ejs\"",
+    "\"express\"",
+    "\"node\""
+  ],
+  "author": "nitin",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
